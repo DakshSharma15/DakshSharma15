@@ -11,18 +11,8 @@
 - **Frontend**: React.js, Tailwind CSS, Material UI  
 - **Backend**: Node.js, Express.js, REST APIs  
 - **Databases**: MongoDB, Firebase  
-- **AI/ML**: Sentiment analysis, prediction models, stacking models  
-- **Mobile**: Android basics (Java/Kotlin), Maps, Notifications  
-
----
-
-## 🛠️ Tech Toolbox  
-**Languages**: Java, JavaScript, Python, C++  
-**Frameworks & Libraries**: React.js, Express.js, Tailwind CSS  
-**Databases**: MongoDB, Firebase  
-**ML Tools**: Scikit-learn, Pandas, NumPy, Matplotlib  
-**Other**: Git, VS Code, Postman, Cloudinary  
-
+- **AI/ML**: Sentiment analysis, prediction models, stacking models
+  
 ---
 
 ## 📌 Featured Projects  
@@ -43,14 +33,6 @@
 
 ---
 
-## 📫 Let’s Connect  
-- [LinkedIn](https://www.linkedin.com/in/daksh-sharma-50998121b/)  
-- 📧 **Email**: d.sharma151204@gmail.com  
-- 🌍 **Portfolio**: *(coming soon)*  
-
----
-
-✨ *Always curious. Always building. Open to crazy ideas and collaborations.*  
 
 
 
@@ -66,5 +48,10 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DakshSharma15&icon=2&color=0)](https://visitcount.itsvg.in)
+
+
+✨ *"Code mera shauk bhi, iraada bhi hai,  
+Har bug ek nayi kahani ka wada bhi hai."* ✨
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
