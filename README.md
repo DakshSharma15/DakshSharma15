@@ -49,9 +49,14 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=DakshSharma15&icon=2&color=0)](https://visitcount.itsvg.in)
 
+<div align="center">
 
-✨ *"Code mera shauk bhi, iraada bhi hai,  
-Har bug ek nayi kahani ka wada bhi hai."* ✨
+🚀 *"Main sirf code nahi likhta, apne **iraade** ko compile karta hoon,  
+har **safar** ek naya **mantra** hai jo mujhe aage badhata hai."* 🚀  
+
+**— Daksh Sharma**
+
+</div>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
