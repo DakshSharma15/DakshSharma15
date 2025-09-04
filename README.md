@@ -1,5 +1,57 @@
 # 💫 About Me:
-👋 Hi, I'm Daksh Sharma<br><br>🎓 B.Tech CSE Graduate (July 2025) from ABES Institute of Technology, Ghaziabad.<br>💻 Passionate about building full-stack applications, solving real-world problems with AI/ML, and exploring impactful tech.<br>🌱 Currently sharpening my DSA skills and working on advanced MERN stack + AI integrations.<br><br>🚀 What I Do<br><br>Frontend Development: React.js, Tailwind CSS, UI/UX improvements<br><br>Backend Development: Node.js, Express.js, REST APIs<br><br>Database Management: MongoDB, Firebase<br><br>Machine Learning / AI: Prediction models, Sentiment Analysis, Stacking Models<br><br>Mobile Development: Android (Java/Kotlin basics), Notifications & Maps<br><br>🔧 Tech Stack<br><br>Languages: Java, JavaScript, Python, C++<br>Frontend: React.js, HTML, CSS, Tailwind, Material UI<br>Backend: Node.js, Express.js<br>Database: MongoDB, Firebase<br>ML Tools: Scikit-learn, Pandas, NumPy, Matplotlib<br>Other Tools: Git, VS Code, Postman, Cloudinary<br><br>📌 Featured Projects<br><br>🗳️ Election Analysis System – AI-powered system combining Twitter trends & candidate history for real-time election insights.<br><br>🐕 Street Animal Accident Helper – MERN + Maps app where users report accidents via pins, NGOs/municipal manage responses.<br><br>🛒 Virtual Retail Store – MERN-based retail experience with cart summary & admin features.<br><br>🏪 Retail Grocery Store Management System (MERN) – Dashboard, admin login, and cart system.<br><br>📅 Online Booking System – Simple system for retail store slot bookings.<br><br>🤖 Labor Law AI Assistant – Chatbot built in Python using Botpress.<br><br>🌐 Ayush Startup Portal – Smart India Hackathon project, UI built with HTML/CSS/Firebase.<br><br>📊 Current Focus<br><br>Preparing for software developer roles & internships.<br><br>Deep-diving into DSA patterns for interviews.<br><br>Expanding projects to connect ML models with MERN dashboards.<br><br>📫 Let’s Connect<br><br>LinkedIn<br> 👋 Hi, I'm Daksh Sharma<br><br>🎓 B.Tech CSE Graduate (July 2025) from ABES Institute of Technology, Ghaziabad.<br>💻 Passionate about building full-stack applications, solving real-world problems with AI/ML, and exploring impactful tech.<br>🌱 Currently sharpening my DSA skills and working on advanced MERN stack + AI integrations.<br><br>🚀 What I Do<br><br>Frontend Development: React.js, Tailwind CSS, UI/UX improvements<br><br>Backend Development: Node.js, Express.js, REST APIs<br><br>Database Management: MongoDB, Firebase<br><br>Machine Learning / AI: Prediction models, Sentiment Analysis, Stacking Models<br><br>Mobile Development: Android (Java/Kotlin basics), Notifications & Maps<br><br>🔧 Tech Stack<br><br>Languages: Java, JavaScript, Python, C++<br>Frontend: React.js, HTML, CSS, Tailwind, Material UI<br>Backend: Node.js, Express.js<br>Database: MongoDB, Firebase<br>ML Tools: Scikit-learn, Pandas, NumPy, Matplotlib<br>Other Tools: Git, VS Code, Postman, Cloudinary<br><br>📌 Featured Projects<br><br>🗳️ Election Analysis System – AI-powered system combining Twitter trends & candidate history for real-time election insights.<br><br>🐕 Street Animal Accident Helper – MERN + Maps app where users report accidents via pins, NGOs/municipal manage responses.<br><br>🛒 Virtual Retail Store – MERN-based retail experience with cart summary & admin features.<br><br>🏪 Retail Grocery Store Management System (MERN) – Dashboard, admin login, and cart system.<br><br>📅 Online Booking System – Simple system for retail store slot bookings.<br><br>🤖 Labor Law AI Assistant – Chatbot built in Python using Botpress.<br><br>🌐 Ayush Startup Portal – Smart India Hackathon project, UI built with HTML/CSS/Firebase.<br><br>📊 Current Focus<br><br>Preparing for software developer roles & internships.<br><br>Deep-diving into DSA patterns for interviews.<br><br>Expanding projects to connect ML models with MERN dashboards.<br><br>📫 Let’s Connect<br><br>LinkedIn<br>👋 Hi, I'm Daksh Sharma<br><br>🎓 B.Tech CSE Graduate (July 2025) from ABES Institute of Technology, Ghaziabad.<br>💻 Passionate about building full-stack applications, solving real-world problems with AI/ML, and exploring impactful tech.<br>🌱 Currently sharpening my DSA skills and working on advanced MERN stack + AI integrations.<br><br>🚀 What I Do<br><br>Frontend Development: React.js, Tailwind CSS, UI/UX improvements<br><br>Backend Development: Node.js, Express.js, REST APIs<br><br>Database Management: MongoDB, Firebase<br><br>Machine Learning / AI: Prediction models, Sentiment Analysis, Stacking Models<br><br>Mobile Development: Android (Java/Kotlin basics), Notifications & Maps<br><br>🔧 Tech Stack<br><br>Languages: Java, JavaScript, Python, C++<br>Frontend: React.js, HTML, CSS, Tailwind, Material UI<br>Backend: Node.js, Express.js<br>Database: MongoDB, Firebase<br>ML Tools: Scikit-learn, Pandas, NumPy, Matplotlib<br>Other Tools: Git, VS Code, Postman, Cloudinary<br><br>📌 Featured Projects<br><br>🗳️ Election Analysis System – AI-powered system combining Twitter trends & candidate history for real-time election insights.<br><br>🐕 Street Animal Accident Helper – MERN + Maps app where users report accidents via pins, NGOs/municipal manage responses.<br><br>🛒 Virtual Retail Store – MERN-based retail experience with cart summary & admin features.<br><br>🏪 Retail Grocery Store Management System (MERN) – Dashboard, admin login, and cart system.<br><br>📅 Online Booking System – Simple system for retail store slot bookings.<br><br>🤖 Labor Law AI Assistant – Chatbot built in Python using Botpress.<br><br>🌐 Ayush Startup Portal – Smart India Hackathon project, UI built with HTML/CSS/Firebase.<br><br>📊 Current Focus<br><br>Preparing for software developer roles & internships.<br><br>Deep-diving into DSA patterns for interviews.<br><br>Expanding projects to connect ML models with MERN dashboards.<br><br>📫 Let’s Connect<br><br>LinkedIn https://www.linkedin.com/in/daksh-sharma-50998121b/<br><br>Email  d.sharma151204@gmail.com<br><br>Portfolio Website<br>( Coming  soon)<br><br>✨ Always curious, always building. Open to collaborations and new ideas. <br>
+# 👋 Hey, I'm Daksh Sharma  
+
+🎓 **B.Tech CSE Graduate (July 2025)** – ABES Institute of Technology, Ghaziabad  
+💻 Full-stack & AI enthusiast, turning ideas into projects that solve real problems  
+🌱 Currently diving deep into **DSA** and **MERN + AI integrations**  
+
+---
+
+## 🚀 What I Do  
+- **Frontend**: React.js, Tailwind CSS, Material UI  
+- **Backend**: Node.js, Express.js, REST APIs  
+- **Databases**: MongoDB, Firebase  
+- **AI/ML**: Sentiment analysis, prediction models, stacking models  
+- **Mobile**: Android basics (Java/Kotlin), Maps, Notifications  
+
+---
+
+## 🛠️ Tech Toolbox  
+**Languages**: Java, JavaScript, Python, C++  
+**Frameworks & Libraries**: React.js, Express.js, Tailwind CSS  
+**Databases**: MongoDB, Firebase  
+**ML Tools**: Scikit-learn, Pandas, NumPy, Matplotlib  
+**Other**: Git, VS Code, Postman, Cloudinary  
+
+---
+
+## 📌 Featured Projects  
+- 🗳️ **Election Analysis System** – AI + Twitter trends + candidate history for real-time insights  
+- 🐕 **Street Animal Accident Helper** – MERN + Maps app to report accidents and connect NGOs/municipal teams  
+- 🛒 **Virtual Retail Store** – MERN-based store with cart summary & admin dashboard  
+- 🏪 **Retail Grocery Store Management System** – MERN dashboard with admin login + cart system  
+- 📅 **Online Booking System** – Slot booking for retail stores  
+- 🤖 **Labor Law AI Assistant** – Chatbot in Python using Botpress  
+- 🌐 **Ayush Startup Portal** – Smart India Hackathon project (HTML, CSS, Firebase)  
+
+---
+
+## 📊 Current Focus  
+- Preparing for **software developer roles**  
+- Mastering **DSA interview patterns**  
+- Expanding MERN dashboards with **live ML model outputs**  
+
+---
+
+## 📫 Let’s Connect  
+- [LinkedIn](https://www.linkedin.com/in/daksh-sharma-50998121b/)  
+- 📧 **Email**: d.sharma151204@gmail.com  
+- 🌍 **Portfolio**: *(coming soon)*  
+
+---
+
+✨ *Always curious. Always building. Open to crazy ideas and collaborations.*  
+
 
 
 ## 🌐 Socials:
